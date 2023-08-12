@@ -1,0 +1,38 @@
+[
+    {
+        "dsa": "array",
+        "easy": 2,
+        "medium": 3,
+        "hard": 1
+    },
+    {
+        "dsa": "tree",
+        "easy": 2,
+        "medium": 1,
+        "hard": 3
+    },
+    {
+        "dsa": "linked list",
+        "easy": 4,
+        "medium": 2,
+        "hard": 2
+    },
+    {
+        "dsa": "array",
+        "easy": 4,
+        "medium": 3,
+        "hard": 2
+    },
+    {
+        "dsa": "tree",
+        "easy": 10,
+        "medium": 10,
+        "hard": 3
+    },
+    {
+        "dsa": "linked list",
+        "easy": 40,
+        "medium": 2,
+        "hard": 20
+    }
+]
